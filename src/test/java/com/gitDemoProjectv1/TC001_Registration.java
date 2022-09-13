@@ -6,7 +6,7 @@ public class TC001_Registration {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("User Registration...");
+		System.out.println("User Registration success...");
 	}
 
 }
