@@ -5,6 +5,6 @@ public class TC002_LogOut {
       public static void main(String[] args) {
 		
     	  
-    	  System.out.println("Log Out");
+    	  System.out.println("User Log Out");
 	}
 }
